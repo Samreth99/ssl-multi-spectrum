@@ -1,4 +1,4 @@
-# Beyond Visible Spectrum: AI for Agriculture 2026 — Task 2
+# Beyond Visible Spectrum: AI for Agriculture 2026 Task 2
 
 **ICPR 2026 Competition** | Task 2: Boosting Automatic Crop Diseases Classification using Sentinel Satellite Data and Self-Supervised Learning (SSL)
 
